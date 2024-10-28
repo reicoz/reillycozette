@@ -273,6 +273,10 @@ a:link {
     color: var(--text-color);
 }
 
+a:visited {
+    color: var (--icon-color);
+}
+
 a:hover {
     color: var(--first-color);
 }
