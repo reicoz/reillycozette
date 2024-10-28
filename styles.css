@@ -274,7 +274,7 @@ a:link {
 }
 
 a:visited {
-    color: var (--icon-color);
+    color: var(--icon-color);
 }
 
 a:hover {
@@ -344,6 +344,7 @@ a:active {
 
 .icon {
     text-decoration: none;
+    color: var(--icon-color);
 }
 
 /* main */
